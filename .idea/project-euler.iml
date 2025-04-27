@@ -8,12 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/rs/p0002/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rs/p0003/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rs/p0004/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rs/p0005/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/next/target" />
       <excludeFolder url="file://$MODULE_DIR$/rs/p0001/target" />
       <excludeFolder url="file://$MODULE_DIR$/rs/p0002/p3/target" />
       <excludeFolder url="file://$MODULE_DIR$/rs/p0002/target" />
       <excludeFolder url="file://$MODULE_DIR$/rs/p0003/target" />
       <excludeFolder url="file://$MODULE_DIR$/rs/p0004/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rs/p0005/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
